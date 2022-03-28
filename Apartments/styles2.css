@@ -1,0 +1,44 @@
+@charset "utf-8";
+.body {
+	background-color: #0F0000;
+	
+	
+}
+
+.header {
+	color: white;
+	background-color: #66CCFF;
+	font-size: 40px;
+	
+	height: 120px;
+}
+.textcenter{text-align:center}
+.navbar{
+	color: #FF0000;
+}
+.navbar ul li {
+	
+	padding: 10px;
+	display: inline;
+	list-style-type: none;
+}
+
+.main {
+	float: right;
+	width: 580px;
+	height: 280px;
+	color: white;
+	background-color: #FF00FF;
+	padding: 10px;
+}
+
+.footer {
+	clear: left;
+	background-color: #0000FF;
+	text-align: center;
+	color: white;
+	height: 1px;
+	}
+.image {
+	float:right;
+}

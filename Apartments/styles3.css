@@ -1,0 +1,40 @@
+@charset "utf-8";
+.body {
+	background-color: #0F0000;
+	
+}
+
+.header {
+	color: white;
+	background-color: #66CCFF;
+	font-size: 40px;
+	text-align: center;
+	height: 120px;
+}
+
+.navbar ul li {
+	color: #FF0000;
+	height: 280px;
+	float: left;
+	display: inline;
+}
+
+.main {
+	float: right;
+	width: 580px;
+	height: 280px;
+	color: white;
+	background-color: #FF00FF;
+	padding: 10px;
+}
+
+.footer {
+	clear: bottom;
+	background-color: #0000FF;
+	text-align: right;
+	color: white;
+	height: 80px;
+	}
+.image {
+	float:right;
+}

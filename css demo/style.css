@@ -1,0 +1,40 @@
+body {
+	background-color: #FFC;
+	height: 700px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+header {
+	color: #FFF;
+	background-color: #036;
+	height: 100px;
+	width: 800px;
+}
+nav {
+	color: #F00;
+	background-color: #999;
+	height: 50px;
+	width: 800px;
+}
+
+aside {
+	background-color: #6FF;
+	height: 500px;
+	width: 90px;
+	float: left;
+	padding-left: 10px;
+}
+main{
+	background-color: #F00;
+	float: right;
+	height: 500px;
+	width: 700px;
+}
+footer {
+	background-color: #0F0;
+	clear: both;
+	height: 50px;
+	width: 800px;
+}
+ 
